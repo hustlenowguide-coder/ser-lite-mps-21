@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hustlenowguide-coder.github.io/ser-lite-mps-21/sitemap.xml
